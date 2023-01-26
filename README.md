@@ -6,7 +6,12 @@
 
 💞️ I have never collaborated on a project before but I think it would be a fun learning experience. I would be happy to collaborate on anything so if you're browsing my profile and looking for someone to help, even if it's something really minor, I want to!
 
+
 📫 You can reach reach me at my email, jatk187@wgu.edu or through one of the links.
+
+Here's a couple places where you can find me too!!
+
+https://www.codecademy.com/profiles/End_User90
 
 P.S. I'm still finding my way around Git and Github.
 
