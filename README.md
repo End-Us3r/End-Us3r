@@ -1,8 +1,12 @@
-👋 Hello, I’m James! I started college a few years ago for my associates in Information Technology/Web Development and Computer Programming eventally transferring to WGU for my Bachelors in Software Development.
+👋 Hello, I’m James! I'm currently in college striving to earn my Bachelor's in Software Engineering!
 
-👀 I’m passionate in technology, cybersecurity, and robotics. I am currently increasing my skills as a web developer/software developer. So far I've worked on small projects that use HTML/CSS/JS, C++, Java, and Python. 💞️ 
+👀 I’m passionate about technology, cybersecurity, and robotics.
 
-📫 You can reach reach me at my email, jatk187@wgu.edu
+💞️ I love learning about all things I.T., I really what to build things!
+
+📫 You can reach me at my student email, jatk187@wgu.edu
+
+P.S. I haven't used GitHub as much as I should have in the past, that changes this year!
 
 <!---
 End-Us3r/End-Us3r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
