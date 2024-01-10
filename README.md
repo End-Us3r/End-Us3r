@@ -2,11 +2,11 @@
 
 👀 I’m passionate about technology, cybersecurity, and robotics.
 
-💞️ I love learning about all things I.T., I really what to build things!
+💞️ I love learning about all things I.T. 
 
 📫 You can reach me at my student email, jatk187@wgu.edu
 
-P.S. I haven't used GitHub as much as I should have in the past, that changes this year!
+P.S. I haven't used GitHub as much as I should have in the past but that changes this year!
 
 <!---
 End-Us3r/End-Us3r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
