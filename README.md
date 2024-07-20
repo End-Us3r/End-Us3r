@@ -1,12 +1,11 @@
-👋 Hello, I’m James! I'm currently in college striving to earn my Bachelor's in Software Engineering!
+👋 Hello, I’m James! I'm still in college striving to earn my Bachelor's in Software Engineering. One day!
 
-👀 I’m passionate about technology, cybersecurity, and robotics.
+  Anyway, I like learning about Web Development and AI, interested in learning more about Cybersecurity and Game Development. 
+  
+  I would love to gain experience collaborating on projects with others so hit me up if you're looking for the same! It's a learning experience, right?
+  
+  Find me on LinkedIn or Codecademy!
 
-💞️ I love learning about all things I.T. 
-
-📫 You can reach me at my student email, jatk187@wgu.edu
-
-P.S. I haven't used GitHub as much as I should have in the past but that changes this year!
 
 <!---
 End-Us3r/End-Us3r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
