@@ -45,7 +45,7 @@ When I’m not coding, you can find me:
 
 ### 🤝 Let’s Connect
 - [Portfolio](https://end-us3r.github.io/) *(work in progress)*  
-- [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/techiejames/))  
+- [LinkedIn](https://www.linkedin.com/in/techiejames/)
 
 ---
 
