@@ -1,10 +1,4 @@
-👋 Hello, I’m James! I'm still in college striving to earn my Bachelor's in Software Engineering. One day!
-
-  Anyway, I like learning about Web Development and AI, interested in learning more about Cybersecurity and Game Development. 
-  
-  I would love to gain experience collaborating on projects with others so hit me up if you're looking for the same! It's a learning experience, right?
-  
-  Find me on LinkedIn or Codecademy!
+Builder turned coder 🛠️➡️💻 | WGU Software Eng. student | Web dev, AI & game dev fan | NC ➡️ Bay Area | Hiking + gaming + code
 
 
 <!---
